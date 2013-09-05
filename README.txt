@@ -1,26 +1,23 @@
-
 CONTENTS OF THIS FILE
 ---------------------
 
- * About Drupal
+ * About Sharkpad
  * Configuration and features
  * Installation profiles
  * Appearance
- * Developing for Drupal
 
-ABOUT DRUPAL
+Sharkpad - About
 ------------
 
-Drupal is an open source content management platform supporting a variety of
-websites ranging from personal weblogs to large community-driven websites. For
-more information, see the Drupal website at http://drupal.org/, and join the
-Drupal community at http://drupal.org/community.
+This deployment is created based on the famous Content Management System (CMS) Drupal, and it is intended to provide an
+an easy-to-use interface for biodiversity scientists and ecologists to set up their own web database of biodiversity
+elements (flora and fauna).
 
-Legal information about Drupal:
- * Know your rights when using Drupal:
-   See LICENSE.txt in the same directory as this document.
- * Learn about the Drupal trademark and logo policy:
-   http://drupal.com/trademark
+The descriptions are very much similar to Drupal, with some extensions and modules already added for your convenience.
+This readme file will be updated accordingly once the modules are stable and the installer script is enabled.
+
+--
+DRUPAL
 
 CONFIGURATION AND FEATURES
 --------------------------
