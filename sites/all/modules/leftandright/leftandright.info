@@ -1,0 +1,11 @@
+name = Left and right
+description = Contains the backend functions that "Taxonomy (Left and right replacement)" uses.
+core = 7.x
+dependencies[] = taxonomy
+files[] = leftandright.module
+; Information added by drupal.org packaging script on 2011-04-15
+version = "7.x-1.2"
+core = "7.x"
+project = "leftandright"
+datestamp = "1302870116"
+

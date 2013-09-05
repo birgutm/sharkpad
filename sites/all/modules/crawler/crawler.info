@@ -1,0 +1,10 @@
+;$Id$
+
+name = Crawler
+description = Uses multiple API from biodiversity sites.
+core = 7.x
+version = VERSION
+package = BIRG Drupal Module
+files[] = crawler.module
+;dependencies[] = autoload
+;php = 5.2

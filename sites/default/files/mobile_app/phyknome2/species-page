@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html version="HTML+RDFa 1.0" lang="en" dir="ltr" xmlns="http://www.w3.org/1999/xhtml"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+	<head profile="http://www.w3.org/1999/xhtml/vocab">
+	  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="./sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+	  <title>Search Plants  | Phyknome</title>
+	  <style type="text/css" media="all">@import url("./modules/system/system.base.css?msc7cm");
+@import url("./modules/system/system.menus.css?msc7cm");
+@import url("./modules/system/system.messages.css?msc7cm");
+@import url("./modules/system/system.theme.css?msc7cm");</style>
+<style type="text/css" media="all">@import url("./modules/comment/comment.css?msc7cm");
+@import url("./sites/all/modules/counter/counter.css?msc7cm");
+@import url("./modules/field/theme/field.css?msc7cm");
+@import url("./modules/node/node.css?msc7cm");
+@import url("./modules/search/search.css?msc7cm");
+@import url("./modules/user/user.css?msc7cm");
+@import url("./modules/forum/forum.css?msc7cm");
+@import url("./sites/all/modules/views/css/views.css?msc7cm");</style>
+<style type="text/css" media="all">@import url("./sites/all/modules/ctools/css/ctools.css?msc7cm");
+@import url("./sites/all/modules/biblio/biblio.css?msc7cm");</style>
+<style type="text/css" media="all">@import url("./sites/all/themes/havasu/style.css?msc7cm");</style>
+	  <script type="text/javascript" src="./misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="./misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="./misc/drupal.js?msc7cm"></script>
+<script type="text/javascript" src="./misc/autocomplete.js?v=7.22"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/phyknome2\/","pathPrefix":"","ajaxPageState":{"theme":"havasu","theme_token":"HOnj_dQDY_BNks7zTIZivZSe-dQ1eteXCqwRwlKsSyU","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/autocomplete.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/counter\/counter.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/biblio\/biblio.css":1,"sites\/all\/themes\/havasu\/style.css":1}}});
+//--><!]]>
+</script>
+		<script src="misc/jquery.js"></script>
+		<script src="sites/all/themes/havasu/js/havasu.js"></script>
+	</head>
+	<body class="html not-front not-logged-in no-sidebars page-species-page i18n-en" >
+	  <div id="skip-link">
+	    <a href="#content" title="Jump to the main content of this page" class="element-invisible">Jump to Content</a>
+	  </div>
+	  	  <div id="wrap">
+<div id="allbutend">
+<!-- top band that is full width-->
+	<div id="top">
+			<div class="fixed">
+		        			      <div id="main-menu">
+			        <h2 class="element-invisible">Main menu</h2><ul id="main-menu-links" class="links clearfix"><li class="menu-218 first"><a href="./index.html">Home</a></li>
+<li class="menu-430 active-trail active"><a href="/phyknome2/species-page" class="active-trail active">Search Plants</a></li>
+<li class="menu-431"><a href="/phyknome2/glossary">Glossary</a></li>
+<li class="menu-592"><a href="/phyknome2/view/biblio/year">Resources</a></li>
+<li class="menu-433"><a href="/phyknome2/forum" title="">Forums</a></li>
+<li class="menu-550"><a href="/phyknome2/institutional_credits">Credits</a></li>
+<li class="menu-543 last"><a href="/phyknome2/researchers">About Us</a></li>
+</ul>			      </div> <!-- /#main-menu -->
+			    						</div><!-- /.fixed -->
+	</div><!-- /#top -->
+<!-- start portion of site that's a fixed width container -->
+<div class="fixed">   	
+	<div id="branding" class="clearfix">
+    <!-- logo -->
+		      <div id="logo">
+				<a href="/phyknome2/" title="Home"><img src="./sites/all/themes/havasu/logo.png"alt="Home" /></a>
+			</div>
+		    <!-- site name -->
+				<div class="social"></div>
+  </div><!-- /#branding -->
+<div id="box" class="clearfix">
+  <!-- Region: Content -->
+	<div id="main">
+		<div id="content" class="clearfix">
+			<!-- title -->
+							<h2 class="content-title">Search Plants</h2>
+												<div class="messages error">
+<h2 class="element-invisible">Error message</h2>
+<em class="placeholder">Notice</em>: Undefined index: HTTP_ACCEPT in <em class="placeholder">mobile_theme_detect_php()</em> (line <em class="placeholder">109</em> of <em class="placeholder">C:\xampp\htdocs\phyknome2\sites\all\modules\mobile_theme\mobile_theme.module</em>).</div>
+        	  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div class="view view-species-page view-id-species_page view-display-id-page view-dom-id-ce4f3318e63c8c6f02ead4fe3b8736b1">
+        
+      <div class="view-filters">
+      <form action="/phyknome2/species-page" method="get" id="views-exposed-form-species-page-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-title-wrapper" class="views-exposed-widget views-widget-filter-title">
+                  <label for="edit-title">
+            Scientific Name          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-title">
+ <input type="text" id="edit-title" name="title" value="" size="30" maxlength="128" class="form-text" />
+</div>
+        </div>
+              </div>
+          <div id="edit-field-vernacular-name-value-wrapper" class="views-exposed-widget views-widget-filter-field_vernacular_name_value">
+                  <label for="edit-field-vernacular-name-value">
+            Common Name          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-field-vernacular-name-value">
+ <input type="text" id="edit-field-vernacular-name-value" name="field_vernacular_name_value" value="" size="30" maxlength="128" class="form-text" />
+</div>
+        </div>
+              </div>
+          <div id="edit-field-chinese-name-value-wrapper" class="views-exposed-widget views-widget-filter-field_chinese_name_value">
+                  <label for="edit-field-chinese-name-value">
+            Chinese Name           </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-field-chinese-name-value">
+ <input type="text" id="edit-field-chinese-name-value" name="field_chinese_name_value" value="" size="30" maxlength="128" class="form-text" />
+</div>
+        </div>
+              </div>
+          <div id="edit-field-symptoms-tid-wrapper" class="views-exposed-widget views-widget-filter-field_symptoms_tid">
+                  <label for="edit-field-symptoms-tid">
+            Search Symptoms/Disease          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-field-symptoms-tid">
+ <input type="text" id="edit-field-symptoms-tid" name="field_symptoms_tid" value="" size="60" maxlength="128" class="form-text form-autocomplete" /><input type="hidden" id="edit-field-symptoms-tid-autocomplete" value="http://localhost/phyknome2/admin/views/ajax/autocomplete/taxonomy/10" disabled="disabled" class="autocomplete" />
+</div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-species-page" name="" value="Apply" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>    </div>
+  
+  
+      <div class="view-content">
+      <table class="views-table cols-2" >
+         <thead>
+      <tr>
+                  <th class="views-field views-field-title views-align-left" >
+            Scientific Name          </th>
+                  <th class="views-field views-field-field-vernacular-name" >
+            Vernacular Name          </th>
+              </tr>
+    </thead>
+    <tbody>
+          <tr class="odd views-row-first">
+                  <td class="views-field views-field-title views-align-left" >
+            <em><a href="./node/154.html">Abutilon abutiloides</a></em>          </td>
+                  <td class="views-field views-field-field-vernacular-name" >
+            Colotahue,  Mizbil          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title views-align-left" >
+            <em><a href="./node/155.html">Abutilon asiaticum</a></em>          </td>
+                  <td class="views-field views-field-field-vernacular-name" >
+            Kanghi          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title views-align-left" >
+            <em><a href="./node/156.html">Abutilon avicennae</a></em>          </td>
+                  <td class="views-field views-field-field-vernacular-name" >
+            Gou ma,  Flowering maple          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title views-align-left" >
+            <em><a href="./node/157.html">Abutilon glaucum</a></em>          </td>
+                  <td class="views-field views-field-field-vernacular-name" >
+            Balbij          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title views-align-left" >
+            <em><a href="./node/158.html">Abutilon hirtum</a></em>          </td>
+                  <td class="views-field views-field-field-vernacular-name" >
+            Kecemplok,  Bunga petang          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title views-align-left" >
+            <em><a href="./node/159.html">Abutilon inclusum</a></em>          </td>
+                  <td class="views-field views-field-field-vernacular-name" >
+            Guimauve,  Petit mahot          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title views-align-left" >
+            <em><a href="./node/160.html">Abutilon indicum</a></em>          </td>
+                  <td class="views-field views-field-field-vernacular-name" >
+            Kanghi,  Indian mallow,  Country mallow,  Moon-flower          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title views-align-left" >
+            <em><a href="./node/161.html">Abutilon lignosum</a></em>          </td>
+                  <td class="views-field views-field-field-vernacular-name" >
+            Sacxiu          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title views-align-left" >
+            <em><a href="./node/162.html">Abutilon pauciflorum</a></em>          </td>
+                  <td class="views-field views-field-field-vernacular-name" >
+            Farolito          </td>
+              </tr>
+          <tr class="even views-row-last">
+                  <td class="views-field views-field-title views-align-left" >
+            <em><a href="./node/163.html">Abutilon permolle</a></em>          </td>
+                  <td class="views-field views-field-field-vernacular-name" >
+            Velvet leaf          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+      <h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a title="Go to page 2" href="/phyknome2/species-page?title=&amp;field_vernacular_name_value=&amp;field_chinese_name_value=&amp;field_symptoms_tid=&amp;page=1&amp;mag=1&amp;mag_q=species-page">2</a></li>
+<li class="pager-item"><a title="Go to page 3" href="/phyknome2/species-page?title=&amp;field_vernacular_name_value=&amp;field_chinese_name_value=&amp;field_symptoms_tid=&amp;page=2&amp;mag=1&amp;mag_q=species-page">3</a></li>
+<li class="pager-item"><a title="Go to page 4" href="/phyknome2/species-page?title=&amp;field_vernacular_name_value=&amp;field_chinese_name_value=&amp;field_symptoms_tid=&amp;page=3&amp;mag=1&amp;mag_q=species-page">4</a></li>
+<li class="pager-item"><a title="Go to page 5" href="/phyknome2/species-page?title=&amp;field_vernacular_name_value=&amp;field_chinese_name_value=&amp;field_symptoms_tid=&amp;page=4&amp;mag=1&amp;mag_q=species-page">5</a></li>
+<li class="pager-item"><a title="Go to page 6" href="/phyknome2/species-page?title=&amp;field_vernacular_name_value=&amp;field_chinese_name_value=&amp;field_symptoms_tid=&amp;page=5&amp;mag=1&amp;mag_q=species-page">6</a></li>
+<li class="pager-item"><a title="Go to page 7" href="/phyknome2/species-page?title=&amp;field_vernacular_name_value=&amp;field_chinese_name_value=&amp;field_symptoms_tid=&amp;page=6&amp;mag=1&amp;mag_q=species-page">7</a></li>
+<li class="pager-item"><a title="Go to page 8" href="/phyknome2/species-page?title=&amp;field_vernacular_name_value=&amp;field_chinese_name_value=&amp;field_symptoms_tid=&amp;page=7&amp;mag=1&amp;mag_q=species-page">8</a></li>
+<li class="pager-item"><a title="Go to page 9" href="/phyknome2/species-page?title=&amp;field_vernacular_name_value=&amp;field_chinese_name_value=&amp;field_symptoms_tid=&amp;page=8&amp;mag=1&amp;mag_q=species-page">9</a></li>
+<li class="pager-ellipsis">…</li>
+<li class="pager-next"><a title="Go to next page" href="/phyknome2/species-page?title=&amp;field_vernacular_name_value=&amp;field_chinese_name_value=&amp;field_symptoms_tid=&amp;page=1&amp;mag=1&amp;mag_q=species-page">next ›</a></li>
+<li class="pager-last last"><a title="Go to last page" href="/phyknome2/species-page?title=&amp;field_vernacular_name_value=&amp;field_chinese_name_value=&amp;field_symptoms_tid=&amp;page=2482&amp;mag=1&amp;mag_q=species-page">last »</a></li>
+</ul></div>  
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+    </div>
+		<!-- Region: Sidebar One -->
+				
+		<!-- Region: Sidebar Two -->
+			</div><!-- fixed width container area ends -->
+</div>
+</div>
+
+</div><!-- /#allbutend -->
+</div><!-- /#wrap -->
+
+<div id="end" class="clearfix">
+	
+<!-- bottom band that is full width-->
+<div id="footer" class="clearfix">
+	<div class="fixed">
+	<!-- Region: Footer Left -->
+		<!-- Region: Footer Middle -->
+		<!-- Region: Footer Right -->
+			<div class="footerblock last">
+			  <div class="region region-footer-third">
+    <div id="block-counter-counter" class="block block-counter">
+
+    <h2>Counter</h2>
+  
+  <div class="content">
+    <div  id="counter"><ul><li>Site Counter:<strong>755</strong></li><li>Unique Visitor:<strong>1</strong></li><ul></ul></ul></div>  </div>
+</div>
+  </div>
+		</div>
+   </div><!-- /.fixed -->
+</div><!-- /footer -->
+
+	<div class="fixed">
+	<!-- Region: Credits -->
+			<div class="credits">
+			  <div class="region region-credits">
+    <div id="block-block-2" class="block block-block">
+
+    
+  <div class="content">
+    <p>copyright by Bioinformatics Research Group (BIRG), Universiti Teknologi Malaysia 2013</p>
+  </div>
+</div>
+  </div>
+		</div>
+   </div><!-- /.fixed -->
+</div><!-- /#end -->	  	</body>
+</html>

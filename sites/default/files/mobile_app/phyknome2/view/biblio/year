@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html version="HTML+RDFa 1.0" lang="en" dir="ltr" xmlns="http://www.w3.org/1999/xhtml"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+	<head profile="http://www.w3.org/1999/xhtml/vocab">
+	  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="./../../sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+	  <title>| Phyknome</title>
+	  <style type="text/css" media="all">@import url("./../../modules/system/system.base.css?msc7cm");
+@import url("./../../modules/system/system.menus.css?msc7cm");
+@import url("./../../modules/system/system.messages.css?msc7cm");
+@import url("./../../modules/system/system.theme.css?msc7cm");</style>
+<style type="text/css" media="all">@import url("./../../modules/comment/comment.css?msc7cm");
+@import url("./../../sites/all/modules/counter/counter.css?msc7cm");
+@import url("./../../modules/field/theme/field.css?msc7cm");
+@import url("./../../modules/node/node.css?msc7cm");
+@import url("./../../modules/search/search.css?msc7cm");
+@import url("./../../modules/user/user.css?msc7cm");
+@import url("./../../modules/forum/forum.css?msc7cm");
+@import url("./../../sites/all/modules/views/css/views.css?msc7cm");</style>
+<style type="text/css" media="all">@import url("./../../sites/all/modules/ctools/css/ctools.css?msc7cm");
+@import url("./../../sites/all/modules/biblio/biblio.css?msc7cm");</style>
+<style type="text/css" media="all">@import url("./../../sites/all/themes/havasu/style.css?msc7cm");</style>
+	  <script type="text/javascript" src="./../../misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="./../../misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="./../../misc/drupal.js?msc7cm"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/phyknome2\/","pathPrefix":"","ajaxPageState":{"theme":"havasu","theme_token":"22gzYQHd6inkbKTr-UfnDDoZ12l33HkIFcwbfeCdiD0","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/counter\/counter.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/biblio\/biblio.css":1,"sites\/all\/themes\/havasu\/style.css":1}}});
+//--><!]]>
+</script>
+		<script src="misc/jquery.js"></script>
+		<script src="sites/all/themes/havasu/js/havasu.js"></script>
+	</head>
+	<body class="html not-front not-logged-in no-sidebars page-view page-view-biblio page-view-biblio-year i18n-en" >
+	  <div id="skip-link">
+	    <a href="#content" title="Jump to the main content of this page" class="element-invisible">Jump to Content</a>
+	  </div>
+	  	  <div id="wrap">
+<div id="allbutend">
+<!-- top band that is full width-->
+	<div id="top">
+			<div class="fixed">
+		        			      <div id="main-menu">
+			        <h2 class="element-invisible">Main menu</h2><ul id="main-menu-links" class="links clearfix"><li class="menu-218 first"><a href="./../../index.html">Home</a></li>
+<li class="menu-430"><a href="/phyknome2/species-page">Search Plants</a></li>
+<li class="menu-431"><a href="/phyknome2/glossary">Glossary</a></li>
+<li class="menu-592 active-trail active"><a href="/phyknome2/view/biblio/year" class="active-trail active">Resources</a></li>
+<li class="menu-433"><a href="/phyknome2/forum" title="">Forums</a></li>
+<li class="menu-550"><a href="/phyknome2/institutional_credits">Credits</a></li>
+<li class="menu-543 last"><a href="/phyknome2/researchers">About Us</a></li>
+</ul>			      </div> <!-- /#main-menu -->
+			    						</div><!-- /.fixed -->
+	</div><!-- /#top -->
+<!-- start portion of site that's a fixed width container -->
+<div class="fixed">   	
+	<div id="branding" class="clearfix">
+    <!-- logo -->
+		      <div id="logo">
+				<a href="/phyknome2/" title="Home"><img src="./../../sites/all/themes/havasu/logo.png"alt="Home" /></a>
+			</div>
+		    <!-- site name -->
+				<div class="social"></div>
+  </div><!-- /#branding -->
+<div id="box" class="clearfix">
+  <!-- Region: Content -->
+	<div id="main">
+		<div id="content" class="clearfix">
+			<!-- title -->
+												<div class="messages error">
+<h2 class="element-invisible">Error message</h2>
+<em class="placeholder">Notice</em>: Undefined index: HTTP_ACCEPT in <em class="placeholder">mobile_theme_detect_php()</em> (line <em class="placeholder">109</em> of <em class="placeholder">C:\xampp\htdocs\phyknome2\sites\all\modules\mobile_theme\mobile_theme.module</em>).</div>
+        	  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div class="view view-biblio-views view-id-biblio_views view-display-id-page_1 view-dom-id-ede616c92d9f3d6e0d15f500da5a04ce">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ol>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-citation">        <span class="field-content"><span class="biblio-authors" ><a href="/phyknome2/biblio?mag=1&amp;f[author]=4" rel="nofollow">Farooqi AAli</a>, <a href="/phyknome2/biblio?mag=1&amp;f[author]=5" rel="nofollow">Sreeramu BS</a></span>. <a href="./../../node/24998.html"><span class="biblio-title" >Cultivation of medicinal and aromatic crops</span></a>. Universities Press; 2010. <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.title=Cultivation+of+medicinal+and+aromatic+crops&amp;rft.isbn=8173715041&amp;rft.date=2010&amp;rft.aulast=Farooqi&amp;rft.aufirst=Azhar&amp;rft.au=Sreeramu%2C+BS&amp;rft.pub=Universities+Press"></span><ul class="biblio-export-buttons"><li class="biblio_google_scholar first"><a href="http://scholar.google.com/scholar?btnG=Search%2BScholar&amp;as_q=%22Cultivation%2Bof%2Bmedicinal%2Band%2Baromatic%2Bcrops%22&amp;as_sauthors=Farooqi&amp;as_occt=any&amp;as_epq=&amp;as_oq=&amp;as_eq=&amp;as_publication=&amp;as_ylo=&amp;as_yhi=&amp;as_sdtAAP=1&amp;as_sdtp=1" title="Click to search Google Scholar for this entry" rel="nofollow">Google Scholar</a></li>
+<li class="biblio_bibtex"><a href="/phyknome2/biblio/export/bibtex/24998" title="Click to download the BibTEX formatted file" rel="nofollow">BibTex</a></li>
+<li class="biblio_rtf"><a href="/phyknome2/biblio/export/rtf/24998" title="Click to download the RTF formatted file" rel="nofollow">RTF</a></li>
+<li class="biblio_marc"><a href="/phyknome2/biblio/export/marc/24998" title="Click to download the MARC formatted file" rel="nofollow">MARC</a></li>
+<li class="biblio_xml"><a href="/phyknome2/biblio/export/xml/24998" title="Click to download the EndNote XML formatted file" rel="nofollow">XML</a></li>
+<li class="biblio_ris last"><a href="/phyknome2/biblio/export/ris/24998" title="Click to download the RIS formatted file" rel="nofollow">RIS</a></li>
+</ul></span>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-citation">        <span class="field-content"><span class="biblio-authors" ><a href="/phyknome2/biblio?mag=1&amp;f[author]=8" rel="nofollow">Ong T</a></span>. <a href="./../../node/25001.html"><span class="biblio-title" >Rahsia Herba</span></a>. Alaf 21 S.B Theatre; 2008. p. 196. <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.title=Rahsia+Herba&amp;rft.isbn=983-124-259-9&amp;rft.date=2008&amp;rft.tpages=196&amp;rft.aulast=Ong&amp;rft.aufirst=Theresa&amp;rft.pub=Alaf+21+S.B+Theatre"></span><ul class="biblio-export-buttons"><li class="biblio_google_scholar first"><a href="http://scholar.google.com/scholar?btnG=Search%2BScholar&amp;as_q=%22Rahsia%2BHerba%22&amp;as_sauthors=Ong&amp;as_occt=any&amp;as_epq=&amp;as_oq=&amp;as_eq=&amp;as_publication=&amp;as_ylo=&amp;as_yhi=&amp;as_sdtAAP=1&amp;as_sdtp=1" title="Click to search Google Scholar for this entry" rel="nofollow">Google Scholar</a></li>
+<li class="biblio_bibtex"><a href="/phyknome2/biblio/export/bibtex/25001" title="Click to download the BibTEX formatted file" rel="nofollow">BibTex</a></li>
+<li class="biblio_rtf"><a href="/phyknome2/biblio/export/rtf/25001" title="Click to download the RTF formatted file" rel="nofollow">RTF</a></li>
+<li class="biblio_marc"><a href="/phyknome2/biblio/export/marc/25001" title="Click to download the MARC formatted file" rel="nofollow">MARC</a></li>
+<li class="biblio_xml"><a href="/phyknome2/biblio/export/xml/25001" title="Click to download the EndNote XML formatted file" rel="nofollow">XML</a></li>
+<li class="biblio_ris last"><a href="/phyknome2/biblio/export/ris/25001" title="Click to download the RIS formatted file" rel="nofollow">RIS</a></li>
+</ul></span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field views-field-citation">        <span class="field-content"><span class="biblio-authors" ><a href="/phyknome2/biblio?mag=1&amp;f[author]=7" rel="nofollow">Ong HChooi</a></span>. <a href="./../../node/25000.html"><span class="biblio-title" >Tanaman hiasan: khasiat makanan & ubatan</span></a>. Utusan Publications; 2006. <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.title=Tanaman+hiasan%3A+khasiat+makanan+%26amp%3B+ubatan&amp;rft.isbn=9676118923&amp;rft.date=2006&amp;rft.aulast=Ong&amp;rft.aufirst=Hean&amp;rft.pub=Utusan+Publications"></span><ul class="biblio-export-buttons"><li class="biblio_google_scholar first"><a href="http://scholar.google.com/scholar?btnG=Search%2BScholar&amp;as_q=%22Tanaman%2Bhiasan%3A%2Bkhasiat%2Bmakanan%2B%26%2Bubatan%22&amp;as_sauthors=Ong&amp;as_occt=any&amp;as_epq=&amp;as_oq=&amp;as_eq=&amp;as_publication=&amp;as_ylo=&amp;as_yhi=&amp;as_sdtAAP=1&amp;as_sdtp=1" title="Click to search Google Scholar for this entry" rel="nofollow">Google Scholar</a></li>
+<li class="biblio_bibtex"><a href="/phyknome2/biblio/export/bibtex/25000" title="Click to download the BibTEX formatted file" rel="nofollow">BibTex</a></li>
+<li class="biblio_rtf"><a href="/phyknome2/biblio/export/rtf/25000" title="Click to download the RTF formatted file" rel="nofollow">RTF</a></li>
+<li class="biblio_marc"><a href="/phyknome2/biblio/export/marc/25000" title="Click to download the MARC formatted file" rel="nofollow">MARC</a></li>
+<li class="biblio_xml"><a href="/phyknome2/biblio/export/xml/25000" title="Click to download the EndNote XML formatted file" rel="nofollow">XML</a></li>
+<li class="biblio_ris last"><a href="/phyknome2/biblio/export/ris/25000" title="Click to download the RIS formatted file" rel="nofollow">RIS</a></li>
+</ul></span>  </div></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field views-field-citation">        <span class="field-content"><span class="biblio-authors" ><a href="/phyknome2/biblio?mag=1&amp;f[author]=3" rel="nofollow">Daniel M</a></span>. <a href="./../../node/24997.html"><span class="biblio-title" >Medicinal plants: chemistry and properties</span></a>. Science publishers; 2006. <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.title=Medicinal+plants%3A+chemistry+and+properties&amp;rft.isbn=1578083958&amp;rft.date=2006&amp;rft.aulast=Daniel&amp;rft.aufirst=Mammen&amp;rft.pub=Science+publishers"></span><ul class="biblio-export-buttons"><li class="biblio_google_scholar first"><a href="http://scholar.google.com/scholar?btnG=Search%2BScholar&amp;as_q=%22Medicinal%2Bplants%3A%2Bchemistry%2Band%2Bproperties%22&amp;as_sauthors=Daniel&amp;as_occt=any&amp;as_epq=&amp;as_oq=&amp;as_eq=&amp;as_publication=&amp;as_ylo=&amp;as_yhi=&amp;as_sdtAAP=1&amp;as_sdtp=1" title="Click to search Google Scholar for this entry" rel="nofollow">Google Scholar</a></li>
+<li class="biblio_bibtex"><a href="/phyknome2/biblio/export/bibtex/24997" title="Click to download the BibTEX formatted file" rel="nofollow">BibTex</a></li>
+<li class="biblio_rtf"><a href="/phyknome2/biblio/export/rtf/24997" title="Click to download the RTF formatted file" rel="nofollow">RTF</a></li>
+<li class="biblio_marc"><a href="/phyknome2/biblio/export/marc/24997" title="Click to download the MARC formatted file" rel="nofollow">MARC</a></li>
+<li class="biblio_xml"><a href="/phyknome2/biblio/export/xml/24997" title="Click to download the EndNote XML formatted file" rel="nofollow">XML</a></li>
+<li class="biblio_ris last"><a href="/phyknome2/biblio/export/ris/24997" title="Click to download the RIS formatted file" rel="nofollow">RIS</a></li>
+</ul></span>  </div></li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <div class="views-field views-field-citation">        <span class="field-content"><span class="biblio-authors" ><a href="/phyknome2/biblio?mag=1&amp;f[author]=9" rel="nofollow">Yaacob M</a>, <a href="/phyknome2/biblio?mag=1&amp;f[author]=10" rel="nofollow">Maarof MGhawas</a>, <a href="/phyknome2/biblio?mag=1&amp;f[author]=11" rel="nofollow">Puteh M</a></span>. <a href="./../../node/25002.html"><span class="biblio-title" >Penanaman Tumbuhan Ubatan dan Beraroma</span></a>. MARDI; 2005. p. 149. <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.title=Penanaman+Tumbuhan+Ubatan+dan+Beraroma&amp;rft.isbn=967-936-480-0&amp;rft.date=2005&amp;rft.tpages=149&amp;rft.aulast=Yaacob&amp;rft.aufirst=Musa&amp;rft.au=Maarof%2C+Muhamad&amp;rft.au=Puteh%2C+Mansor&amp;rft.pub=MARDI"></span><ul class="biblio-export-buttons"><li class="biblio_google_scholar first"><a href="http://scholar.google.com/scholar?btnG=Search%2BScholar&amp;as_q=%22Penanaman%2BTumbuhan%2BUbatan%2Bdan%2BBeraroma%22&amp;as_sauthors=Yaacob&amp;as_occt=any&amp;as_epq=&amp;as_oq=&amp;as_eq=&amp;as_publication=&amp;as_ylo=&amp;as_yhi=&amp;as_sdtAAP=1&amp;as_sdtp=1" title="Click to search Google Scholar for this entry" rel="nofollow">Google Scholar</a></li>
+<li class="biblio_bibtex"><a href="/phyknome2/biblio/export/bibtex/25002" title="Click to download the BibTEX formatted file" rel="nofollow">BibTex</a></li>
+<li class="biblio_rtf"><a href="/phyknome2/biblio/export/rtf/25002" title="Click to download the RTF formatted file" rel="nofollow">RTF</a></li>
+<li class="biblio_marc"><a href="/phyknome2/biblio/export/marc/25002" title="Click to download the MARC formatted file" rel="nofollow">MARC</a></li>
+<li class="biblio_xml"><a href="/phyknome2/biblio/export/xml/25002" title="Click to download the EndNote XML formatted file" rel="nofollow">XML</a></li>
+<li class="biblio_ris last"><a href="/phyknome2/biblio/export/ris/25002" title="Click to download the RIS formatted file" rel="nofollow">RIS</a></li>
+</ul></span>  </div></li>
+          <li class="views-row views-row-6 views-row-even">  
+  <div class="views-field views-field-citation">        <span class="field-content"><span class="biblio-authors" ><a href="/phyknome2/biblio?mag=1&amp;f[author]=6" rel="nofollow">Noor AHj</a></span>. <a href="./../../node/24999.html"><span class="biblio-title" >Merawat Penyakit dengan Ramuan Tumbuhan</span></a>. Ar-Risalah Product; 2003. <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.title=Merawat+Penyakit+dengan+Ramuan+Tumbuhan&amp;rft.isbn=9832672015&amp;rft.date=2003&amp;rft.aulast=Noor&amp;rft.aufirst=Amina&amp;rft.pub=Ar-Risalah+Product"></span><ul class="biblio-export-buttons"><li class="biblio_google_scholar first"><a href="http://scholar.google.com/scholar?btnG=Search%2BScholar&amp;as_q=%22Merawat%2BPenyakit%2Bdengan%2BRamuan%2BTumbuhan%22&amp;as_sauthors=Noor&amp;as_occt=any&amp;as_epq=&amp;as_oq=&amp;as_eq=&amp;as_publication=&amp;as_ylo=&amp;as_yhi=&amp;as_sdtAAP=1&amp;as_sdtp=1" title="Click to search Google Scholar for this entry" rel="nofollow">Google Scholar</a></li>
+<li class="biblio_bibtex"><a href="/phyknome2/biblio/export/bibtex/24999" title="Click to download the BibTEX formatted file" rel="nofollow">BibTex</a></li>
+<li class="biblio_rtf"><a href="/phyknome2/biblio/export/rtf/24999" title="Click to download the RTF formatted file" rel="nofollow">RTF</a></li>
+<li class="biblio_marc"><a href="/phyknome2/biblio/export/marc/24999" title="Click to download the MARC formatted file" rel="nofollow">MARC</a></li>
+<li class="biblio_xml"><a href="/phyknome2/biblio/export/xml/24999" title="Click to download the EndNote XML formatted file" rel="nofollow">XML</a></li>
+<li class="biblio_ris last"><a href="/phyknome2/biblio/export/ris/24999" title="Click to download the RIS formatted file" rel="nofollow">RIS</a></li>
+</ul></span>  </div></li>
+          <li class="views-row views-row-7 views-row-odd views-row-last">  
+  <div class="views-field views-field-citation">        <span class="field-content"><span class="biblio-authors" ><a href="/phyknome2/biblio?mag=1&amp;f[author]=1" rel="nofollow">Mat-Salleh K</a>, <a href="/phyknome2/biblio?mag=1&amp;f[author]=2" rel="nofollow">Latiff A</a></span>. <a href="./../../node/24996.html"><span class="biblio-title" >Tumbuhan Ubatan Malaysia</span></a>. Bangi: Universiti Kebangsaan Malaysia: Universiti Kebangsaan Malaysia; 2002;524. <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.atitle=Tumbuhan+Ubatan+Malaysia&amp;rft.title=Bangi%3A+Universiti+Kebangsaan+MalaysiaBangi%3A+Universiti+Kebangsaan+Malaysia&amp;rft.date=2002&amp;rft.volume=524&amp;rft.aulast=Mat-Salleh&amp;rft.aufirst=Kamarudin&amp;rft.au=Latiff%2C+A&amp;rft.au=Latiff%2C+A&amp;rft.au=Latiff%2C+A"></span><ul class="biblio-export-buttons"><li class="biblio_google_scholar first"><a href="http://scholar.google.com/scholar?btnG=Search%2BScholar&amp;as_q=%22Tumbuhan%2BUbatan%2BMalaysia%22&amp;as_sauthors=Mat-Salleh&amp;as_occt=any&amp;as_epq=&amp;as_oq=&amp;as_eq=&amp;as_publication=&amp;as_ylo=&amp;as_yhi=&amp;as_sdtAAP=1&amp;as_sdtp=1" title="Click to search Google Scholar for this entry" rel="nofollow">Google Scholar</a></li>
+<li class="biblio_bibtex"><a href="/phyknome2/biblio/export/bibtex/24996" title="Click to download the BibTEX formatted file" rel="nofollow">BibTex</a></li>
+<li class="biblio_rtf"><a href="/phyknome2/biblio/export/rtf/24996" title="Click to download the RTF formatted file" rel="nofollow">RTF</a></li>
+<li class="biblio_marc"><a href="/phyknome2/biblio/export/marc/24996" title="Click to download the MARC formatted file" rel="nofollow">MARC</a></li>
+<li class="biblio_xml"><a href="/phyknome2/biblio/export/xml/24996" title="Click to download the EndNote XML formatted file" rel="nofollow">XML</a></li>
+<li class="biblio_ris last"><a href="/phyknome2/biblio/export/ris/24996" title="Click to download the RIS formatted file" rel="nofollow">RIS</a></li>
+</ul></span>  </div></li>
+      </ol></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+    </div>
+		<!-- Region: Sidebar One -->
+				
+		<!-- Region: Sidebar Two -->
+			</div><!-- fixed width container area ends -->
+</div>
+</div>
+
+</div><!-- /#allbutend -->
+</div><!-- /#wrap -->
+
+<div id="end" class="clearfix">
+	
+<!-- bottom band that is full width-->
+<div id="footer" class="clearfix">
+	<div class="fixed">
+	<!-- Region: Footer Left -->
+		<!-- Region: Footer Middle -->
+		<!-- Region: Footer Right -->
+			<div class="footerblock last">
+			  <div class="region region-footer-third">
+    <div id="block-counter-counter" class="block block-counter">
+
+    <h2>Counter</h2>
+  
+  <div class="content">
+    <div  id="counter"><ul><li>Site Counter:<strong>757</strong></li><li>Unique Visitor:<strong>1</strong></li><ul></ul></ul></div>  </div>
+</div>
+  </div>
+		</div>
+   </div><!-- /.fixed -->
+</div><!-- /footer -->
+
+	<div class="fixed">
+	<!-- Region: Credits -->
+			<div class="credits">
+			  <div class="region region-credits">
+    <div id="block-block-2" class="block block-block">
+
+    
+  <div class="content">
+    <p>copyright by Bioinformatics Research Group (BIRG), Universiti Teknologi Malaysia 2013</p>
+  </div>
+</div>
+  </div>
+		</div>
+   </div><!-- /.fixed -->
+</div><!-- /#end -->	  	</body>
+</html>

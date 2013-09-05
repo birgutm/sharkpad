@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html version="HTML+RDFa 1.0" lang="en" dir="ltr" xmlns="http://www.w3.org/1999/xhtml"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+	<head profile="http://www.w3.org/1999/xhtml/vocab">
+	  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="./sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+	  <title>Credits  | Phyknome</title>
+	  <style type="text/css" media="all">@import url("./modules/system/system.base.css?msc7cm");
+@import url("./modules/system/system.menus.css?msc7cm");
+@import url("./modules/system/system.messages.css?msc7cm");
+@import url("./modules/system/system.theme.css?msc7cm");</style>
+<style type="text/css" media="all">@import url("./modules/comment/comment.css?msc7cm");
+@import url("./sites/all/modules/counter/counter.css?msc7cm");
+@import url("./modules/field/theme/field.css?msc7cm");
+@import url("./modules/node/node.css?msc7cm");
+@import url("./modules/search/search.css?msc7cm");
+@import url("./modules/user/user.css?msc7cm");
+@import url("./modules/forum/forum.css?msc7cm");
+@import url("./sites/all/modules/views/css/views.css?msc7cm");</style>
+<style type="text/css" media="all">@import url("./sites/all/modules/ctools/css/ctools.css?msc7cm");
+@import url("./sites/all/modules/biblio/biblio.css?msc7cm");</style>
+<style type="text/css" media="all">@import url("./sites/all/themes/havasu/style.css?msc7cm");</style>
+	  <script type="text/javascript" src="./misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="./misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="./misc/drupal.js?msc7cm"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/phyknome2\/","pathPrefix":"","ajaxPageState":{"theme":"havasu","theme_token":"pAdj5e21jwG0HVMZmQ2EXY9s_aIdEv8zhOjruGo32Ck","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/counter\/counter.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/biblio\/biblio.css":1,"sites\/all\/themes\/havasu\/style.css":1}}});
+//--><!]]>
+</script>
+		<script src="misc/jquery.js"></script>
+		<script src="sites/all/themes/havasu/js/havasu.js"></script>
+	</head>
+	<body class="html not-front not-logged-in no-sidebars page-institutional-credits i18n-en" >
+	  <div id="skip-link">
+	    <a href="#content" title="Jump to the main content of this page" class="element-invisible">Jump to Content</a>
+	  </div>
+	  	  <div id="wrap">
+<div id="allbutend">
+<!-- top band that is full width-->
+	<div id="top">
+			<div class="fixed">
+		        			      <div id="main-menu">
+			        <h2 class="element-invisible">Main menu</h2><ul id="main-menu-links" class="links clearfix"><li class="menu-218 first"><a href="./index.html">Home</a></li>
+<li class="menu-430"><a href="/phyknome2/species-page">Search Plants</a></li>
+<li class="menu-431"><a href="/phyknome2/glossary">Glossary</a></li>
+<li class="menu-592"><a href="/phyknome2/view/biblio/year">Resources</a></li>
+<li class="menu-433"><a href="/phyknome2/forum" title="">Forums</a></li>
+<li class="menu-550 active-trail active"><a href="/phyknome2/institutional_credits" class="active-trail active">Credits</a></li>
+<li class="menu-543 last"><a href="/phyknome2/researchers">About Us</a></li>
+</ul>			      </div> <!-- /#main-menu -->
+			    						</div><!-- /.fixed -->
+	</div><!-- /#top -->
+<!-- start portion of site that's a fixed width container -->
+<div class="fixed">   	
+	<div id="branding" class="clearfix">
+    <!-- logo -->
+		      <div id="logo">
+				<a href="/phyknome2/" title="Home"><img src="./sites/all/themes/havasu/logo.png"alt="Home" /></a>
+			</div>
+		    <!-- site name -->
+				<div class="social"></div>
+  </div><!-- /#branding -->
+<div id="box" class="clearfix">
+  <!-- Region: Content -->
+	<div id="main">
+		<div id="content" class="clearfix">
+			<!-- title -->
+							<h2 class="content-title">Credits</h2>
+												<div class="messages error">
+<h2 class="element-invisible">Error message</h2>
+<em class="placeholder">Notice</em>: Undefined index: HTTP_ACCEPT in <em class="placeholder">mobile_theme_detect_php()</em> (line <em class="placeholder">109</em> of <em class="placeholder">C:\xampp\htdocs\phyknome2\sites\all\modules\mobile_theme\mobile_theme.module</em>).</div>
+        	  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div class="view view-credits view-id-credits view-display-id-page_1 view-dom-id-085b2c571dbd04ba5001cb8076286a4c">
+        
+  
+  
+      <div class="view-content">
+      <table class="views-table cols-0" >
+       <tbody>
+          <tr class="odd views-row-first">
+                  <td class="views-field views-field-field-image-institution" >
+            <img typeof="foaf:Image" src="./sites/default/files/styles/thumbnail/public/PubMed.jpg?itok=WTBhGtQZ" width="100" height="36" alt="" />          </td>
+                  <td class="views-field views-field-field-image-url" >
+            <a href="http://www.ncbi.nlm.nih.gov/pubmed">PubMed</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-image-institution" >
+            <img typeof="foaf:Image" src="./sites/default/files/styles/thumbnail/public/birg_logo_small.jpg?itok=Jfdx-UrA" width="100" height="44" alt="" />          </td>
+                  <td class="views-field views-field-field-image-url" >
+            <a href="http://birg1.fbb.utm.my/birgwebsite/">Bioinformatics Research Group</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-image-institution" >
+            <img typeof="foaf:Image" src="./sites/default/files/styles/thumbnail/public/gbif.gif?itok=SpId0XXE" width="72" height="100" alt="" />          </td>
+                  <td class="views-field views-field-field-image-url" >
+            <a href="http://www.gbif.org/">GBIF</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-image-institution" >
+            <img typeof="foaf:Image" src="./sites/default/files/styles/thumbnail/public/EOL.jpg?itok=nWaDGr2l" width="100" height="64" alt="" />          </td>
+                  <td class="views-field views-field-field-image-url" >
+            <a href="http://eol.org/">Encyclopedia of Life</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-image-institution" >
+            <img typeof="foaf:Image" src="./sites/default/files/styles/thumbnail/public/usda.jpg?itok=KIb9N3kl" width="100" height="69" alt="" />          </td>
+                  <td class="views-field views-field-field-image-url" >
+            <a href="http://plants.usda.gov/java/">United States Department of Agriculture</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-image-institution" >
+            <img typeof="foaf:Image" src="./sites/default/files/styles/thumbnail/public/UTM_transparent.jpg?itok=jJtaKxna" width="100" height="40" alt="" />          </td>
+                  <td class="views-field views-field-field-image-url" >
+            <a href="http://www.utm.my/">Universiti Teknologi Malaysia</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-image-institution" >
+            <img typeof="foaf:Image" src="./sites/default/files/styles/thumbnail/public/itis.jpg?itok=CtaN5it4" width="100" height="53" alt="" />          </td>
+                  <td class="views-field views-field-field-image-url" >
+            <a href="http://www.itis.gov/">Integrated Taxonomic Information System</a>          </td>
+              </tr>
+          <tr class="even views-row-last">
+                  <td class="views-field views-field-field-image-institution" >
+            <img typeof="foaf:Image" src="./sites/default/files/styles/thumbnail/public/google-scholar.jpg?itok=6kN6nNof" width="100" height="77" alt="" />          </td>
+                  <td class="views-field views-field-field-image-url" >
+            <a href="http://scholar.google.com.my/">Google Scholar</a>          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+    </div>
+		<!-- Region: Sidebar One -->
+				
+		<!-- Region: Sidebar Two -->
+			</div><!-- fixed width container area ends -->
+</div>
+</div>
+
+</div><!-- /#allbutend -->
+</div><!-- /#wrap -->
+
+<div id="end" class="clearfix">
+	
+<!-- bottom band that is full width-->
+<div id="footer" class="clearfix">
+	<div class="fixed">
+	<!-- Region: Footer Left -->
+		<!-- Region: Footer Middle -->
+		<!-- Region: Footer Right -->
+			<div class="footerblock last">
+			  <div class="region region-footer-third">
+    <div id="block-counter-counter" class="block block-counter">
+
+    <h2>Counter</h2>
+  
+  <div class="content">
+    <div  id="counter"><ul><li>Site Counter:<strong>763</strong></li><li>Unique Visitor:<strong>1</strong></li><ul></ul></ul></div>  </div>
+</div>
+  </div>
+		</div>
+   </div><!-- /.fixed -->
+</div><!-- /footer -->
+
+	<div class="fixed">
+	<!-- Region: Credits -->
+			<div class="credits">
+			  <div class="region region-credits">
+    <div id="block-block-2" class="block block-block">
+
+    
+  <div class="content">
+    <p>copyright by Bioinformatics Research Group (BIRG), Universiti Teknologi Malaysia 2013</p>
+  </div>
+</div>
+  </div>
+		</div>
+   </div><!-- /.fixed -->
+</div><!-- /#end -->	  	</body>
+</html>

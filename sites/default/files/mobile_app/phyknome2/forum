@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html version="HTML+RDFa 1.0" lang="en" dir="ltr" xmlns="http://www.w3.org/1999/xhtml"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+	<head profile="http://www.w3.org/1999/xhtml/vocab">
+	  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="./sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+	  <title>Forums  | Phyknome</title>
+	  <style type="text/css" media="all">@import url("./modules/system/system.base.css?msc7cm");
+@import url("./modules/system/system.menus.css?msc7cm");
+@import url("./modules/system/system.messages.css?msc7cm");
+@import url("./modules/system/system.theme.css?msc7cm");</style>
+<style type="text/css" media="all">@import url("./modules/comment/comment.css?msc7cm");
+@import url("./sites/all/modules/counter/counter.css?msc7cm");
+@import url("./modules/field/theme/field.css?msc7cm");
+@import url("./modules/node/node.css?msc7cm");
+@import url("./modules/search/search.css?msc7cm");
+@import url("./modules/user/user.css?msc7cm");
+@import url("./modules/forum/forum.css?msc7cm");
+@import url("./sites/all/modules/views/css/views.css?msc7cm");</style>
+<style type="text/css" media="all">@import url("./sites/all/modules/ctools/css/ctools.css?msc7cm");
+@import url("./sites/all/modules/biblio/biblio.css?msc7cm");
+@import url("./sites/all/modules/advanced_forum/styles/naked/advanced-forum.naked.structure.css?msc7cm");
+@import url("./sites/all/modules/advanced_forum/styles/silver_bells/advanced-forum.silver_bells.style.css?msc7cm");
+@import url("./sites/all/modules/advanced_forum/styles/naked/advanced-forum.naked.images.css?msc7cm");
+@import url("./sites/all/modules/advanced_forum/styles/silver_bells/advanced-forum.silver_bells.images.css?msc7cm");</style>
+<style type="text/css" media="all">@import url("./sites/all/themes/havasu/style.css?msc7cm");</style>
+	  <script type="text/javascript" src="./misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="./misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="./misc/drupal.js?msc7cm"></script>
+<script type="text/javascript" src="./misc/jquery.cookie.js?v=1.0"></script>
+<script type="text/javascript" src="./sites/all/modules/advanced_forum/js/advanced_forum.js?msc7cm"></script>
+<script type="text/javascript" src="./sites/all/modules/ctools/js/jump-menu.js?msc7cm"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/phyknome2\/","pathPrefix":"","ajaxPageState":{"theme":"havasu","theme_token":"DkKRi6h-ws8CvX-_cxjBbb6ZPTfWs2UdbG-xJbd5e8w","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/jquery.cookie.js":1,"sites\/all\/modules\/advanced_forum\/js\/advanced_forum.js":1,"sites\/all\/modules\/ctools\/js\/jump-menu.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/counter\/counter.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/biblio\/biblio.css":1,"sites\/all\/modules\/advanced_forum\/styles\/naked\/advanced-forum.naked.structure.css":1,"sites\/all\/modules\/advanced_forum\/styles\/silver_bells\/advanced-forum.silver_bells.style.css":1,"sites\/all\/modules\/advanced_forum\/styles\/naked\/advanced-forum.naked.images.css":1,"sites\/all\/modules\/advanced_forum\/styles\/silver_bells\/advanced-forum.silver_bells.images.css":1,"sites\/all\/themes\/havasu\/style.css":1}},"advanced_forum":{"modulePath":"sites\/all\/modules\/advanced_forum","effect":"toggle","default_collapsed_list":[]}});
+//--><!]]>
+</script>
+		<script src="misc/jquery.js"></script>
+		<script src="sites/all/themes/havasu/js/havasu.js"></script>
+	</head>
+	<body class="html not-front not-logged-in no-sidebars page-forum i18n-en" >
+	  <div id="skip-link">
+	    <a href="#content" title="Jump to the main content of this page" class="element-invisible">Jump to Content</a>
+	  </div>
+	  	  <div id="wrap">
+<div id="allbutend">
+<!-- top band that is full width-->
+	<div id="top">
+			<div class="fixed">
+		        			      <div id="main-menu">
+			        <h2 class="element-invisible">Main menu</h2><ul id="main-menu-links" class="links clearfix"><li class="menu-218 first"><a href="./index.html">Home</a></li>
+<li class="menu-430"><a href="/phyknome2/species-page">Search Plants</a></li>
+<li class="menu-431"><a href="/phyknome2/glossary">Glossary</a></li>
+<li class="menu-592"><a href="/phyknome2/view/biblio/year">Resources</a></li>
+<li class="menu-433 active-trail active"><a href="/phyknome2/forum" title="" class="active-trail active">Forums</a></li>
+<li class="menu-550"><a href="/phyknome2/institutional_credits">Credits</a></li>
+<li class="menu-543 last"><a href="/phyknome2/researchers">About Us</a></li>
+</ul>			      </div> <!-- /#main-menu -->
+			    						</div><!-- /.fixed -->
+	</div><!-- /#top -->
+<!-- start portion of site that's a fixed width container -->
+<div class="fixed">   	
+	<div id="branding" class="clearfix">
+    <!-- logo -->
+		      <div id="logo">
+				<a href="/phyknome2/" title="Home"><img src="./sites/all/themes/havasu/logo.png"alt="Home" /></a>
+			</div>
+		    <!-- site name -->
+				<div class="social"></div>
+  </div><!-- /#branding -->
+<div id="box" class="clearfix">
+  <!-- Region: Content -->
+	<div id="main">
+		<div id="content" class="clearfix">
+			<!-- title -->
+							<h2 class="content-title">Forums</h2>
+						<h2 class="element-invisible">Primary tabs</h2><ul class="tabs primary"><li class="active"><a href="/phyknome2/forum" class="active">View Forums<span class="element-invisible">(active tab)</span></a></li>
+<li><a href="/phyknome2/forum/active">Active topics</a></li>
+<li><a href="/phyknome2/forum/unanswered">Unanswered topics</a></li>
+</ul>						<div class="messages error">
+<h2 class="element-invisible">Error message</h2>
+<em class="placeholder">Notice</em>: Undefined index: HTTP_ACCEPT in <em class="placeholder">mobile_theme_detect_php()</em> (line <em class="placeholder">109</em> of <em class="placeholder">C:\xampp\htdocs\phyknome2\sites\all\modules\mobile_theme\mobile_theme.module</em>).</div>
+        	  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    
+  <div id="forum">
+
+    
+
+  
+  <div class="forum-table-wrap">
+    <div class="forum-table-superheader">
+      <div class="forum-table-name">
+                  Forums              </div>
+              <span id="forum-collapsible-10631" class="forum-collapsible" >&nbsp;</span>
+            <div class="forum-table-description"></div>
+
+    </div>
+    <div id="forum-table-10631">
+      <table class="forum-table forum-table-forums">
+        <thead class="forum-header">
+          <tr>
+            <th class="forum-icon">&nbsp;</th>
+            <th class="forum-name">Forum</th>
+            <th class="forum-topics">Topics</th>
+            <th class="forum-posts">Posts</th>
+            <th class="forum-last-post">Last post</th>
+          </tr>
+        </thead>
+
+        <tbody id="forum-table-10631-content">
+                                    <tr id="forum-10631" class="forum-row even container-10631-child">
+              
+                              <td class="forum-list-icon forum-list-icon-default">
+                  <span class="forum-list-icon-wrapper"><span>No new</span></span>
+                </td>
+              
+                            <td class="forum-details" colspan="1">
+                <div class="forum-name">
+                  <a href="/phyknome2/forum/10631">Welcome to Phyknome</a>
+                </div>
+                
+                
+                              </td>
+                              <td class="forum-number-topics">
+                  <div class="forum-number-topics">0                                      </div>
+                </td>
+
+                <td class="forum-number-posts">
+                  0
+                                  </td>
+                <td class="forum-last-reply">
+                  
+  n/a                </td>
+              
+            </tr>
+
+                  </tbody>
+      </table>
+    </div>
+  </div>
+  
+  <div class="forum-table-wrap">
+    <div class="forum-table-superheader">
+      <div class="forum-table-name">
+                  <a href="/phyknome2/forum/10630">General Questions</a>
+              </div>
+              <span id="forum-collapsible-10630" class="forum-collapsible" >&nbsp;</span>
+            <div class="forum-table-description"></div>
+
+    </div>
+    <div id="forum-table-10630">
+      <table class="forum-table forum-table-forums">
+        <thead class="forum-header">
+          <tr>
+            <th class="forum-icon">&nbsp;</th>
+            <th class="forum-name">Forum</th>
+            <th class="forum-topics">Topics</th>
+            <th class="forum-posts">Posts</th>
+            <th class="forum-last-post">Last post</th>
+          </tr>
+        </thead>
+
+        <tbody id="forum-table-10630-content">
+                  </tbody>
+      </table>
+    </div>
+  </div>
+
+          <div class="forum-tools"><form action="/phyknome2/forum?mag=1" method="post" id="ctools-jump-menu" accept-charset="UTF-8"><div><div class="container-inline"><div class="form-item form-type-select form-item-jump">
+ <select class="ctools-jump-menu-select ctools-jump-menu-change form-select" id="edit-jump" name="jump"><option value="" selected="selected">- Forum Tools -</option><option value="/phyknome2/forum/active">View active forum posts</option><option value="/phyknome2/forum/unanswered">View unanswered forum posts</option></select>
+</div>
+<input class="ctools-jump-menu-button ctools-jump-menu-hide form-submit" type="submit" id="edit-go" name="op" value="Go" /></div><input type="hidden" name="form_build_id" value="form-fe2gCsXTxTXFVCzq9HDmpTFMrrT6wlPX1PxEwq8lo2A" />
+<input type="hidden" name="form_id" value="ctools_jump_menu" />
+</div></form></div>
+    
+    
+    
+          
+<div class="forum-list-icon-legend clearfix">
+  <div class="forum-list-legend-item">
+    <span class="forum-list-icon-wrapper">
+      <span class="forum-list-icon-new-posts">
+      </span>
+    </span>
+
+    <span class="forum-list-text-legend-new-posts">
+      New posts    </span>
+  </div>
+
+  <div class="forum-list-legend-item">
+    <span class="forum-list-icon-wrapper">
+      <span class="forum-list-icon-default">
+      </span>
+    </span>
+
+    <span class="forum-list-text-legend-default">
+      No new posts    </span>
+  </div>
+</div>
+    
+       </div>
+  </div>
+</div>
+  </div>
+    </div>
+		<!-- Region: Sidebar One -->
+				
+		<!-- Region: Sidebar Two -->
+			</div><!-- fixed width container area ends -->
+</div>
+</div>
+
+</div><!-- /#allbutend -->
+</div><!-- /#wrap -->
+
+<div id="end" class="clearfix">
+	
+<!-- bottom band that is full width-->
+<div id="footer" class="clearfix">
+	<div class="fixed">
+	<!-- Region: Footer Left -->
+		<!-- Region: Footer Middle -->
+		<!-- Region: Footer Right -->
+			<div class="footerblock last">
+			  <div class="region region-footer-third">
+    <div id="block-counter-counter" class="block block-counter">
+
+    <h2>Counter</h2>
+  
+  <div class="content">
+    <div  id="counter"><ul><li>Site Counter:<strong>758</strong></li><li>Unique Visitor:<strong>1</strong></li><ul></ul></ul></div>  </div>
+</div>
+  </div>
+		</div>
+   </div><!-- /.fixed -->
+</div><!-- /footer -->
+
+	<div class="fixed">
+	<!-- Region: Credits -->
+			<div class="credits">
+			  <div class="region region-credits">
+    <div id="block-block-2" class="block block-block">
+
+    
+  <div class="content">
+    <p>copyright by Bioinformatics Research Group (BIRG), Universiti Teknologi Malaysia 2013</p>
+  </div>
+</div>
+  </div>
+		</div>
+   </div><!-- /.fixed -->
+</div><!-- /#end -->	  	</body>
+</html>
